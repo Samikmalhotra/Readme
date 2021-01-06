@@ -7,15 +7,14 @@
 ### Hey 👋🏽, I'm Samik
 
 <br/>
-<a href="https://www.linkedin.com/in/agarwalujjwal012/">
-  <img align="left" alt="Ujjwal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/samik-malhotra-51279a17b/">
+  <img align="left" alt="Sam's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=specter25.specter25)
-<br />
+
 
 Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I'm a member of [@ACM-Thapar](https://github.com/ACM-Thapar) and [@creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy skateboarding, football, travelling and reading novels. 
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
