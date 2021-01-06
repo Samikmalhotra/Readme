@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/samik-malhotra-51279a17b/">
   <img align="left" alt="Sam's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br/>
 
 
 
