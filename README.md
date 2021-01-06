@@ -13,10 +13,6 @@
 <br/>
 
 
-
-
-
-
 Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I'm a member of [@ACM-Thapar](https://github.com/ACM-Thapar) and [@creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy skateboarding, football, travelling and reading novels. 
   <img align="right" margin="10px" padding-top="25px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -29,7 +25,7 @@ Hi, I'm Samik Malhotra (aka Sam), a freshman at Thapar Institute of Engineering 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
 - 📫 How to reach me: smalhotra2_be20@thapar.edu
-<!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
+
 
 **Languages and Tools:**  
 
